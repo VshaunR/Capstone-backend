@@ -12,7 +12,7 @@ uncooment it and go to localhost:3000/seed
 Express,Mongoose,dotenv,jwtwebtoken,bodyparser,cors,bcrypyjs
 
 #### Usage
-npm start to initialise the backend
+npm start to start backend
 
 
 ##### Routes
